@@ -69,3 +69,8 @@ plugins {
     }
 }
 ```
+
+## API Used
+```
+https://www.freetogame.com/api/games
+```
